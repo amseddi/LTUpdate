@@ -29,7 +29,7 @@
 #import "LTUpdate.h"
 
 #define kAppStoreFormat @"http://itunes.apple.com/app/id%ld"
-#define kiTunesAPILookUpFormat @"http://itunes.apple.com/lookup?id=%ld"
+#define kiTunesAPILookUpFormat @"http://itunes.apple.com/fr/lookup?id=%ld"
 // Alternative URL:
 // @define kiTunesLookUpFormat @"http://ax.itunes.apple.com/WebObjects/MZStoreServices.woa/wa/wsLookup?id=%ld"
 
