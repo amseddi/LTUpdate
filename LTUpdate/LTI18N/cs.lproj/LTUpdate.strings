@@ -1,6 +1,6 @@
 "A new version is available!" = "Je dostupná nová verze aplikace!";
 
-"%@ %@ is now available. You have %@. Would you like to download(%@) it now?" = "Je k dispozici %1$@ %2$@ - máte %3$@. Přejete si nyní zkopírovat aktualizaci (%4$@)?";
+"%@ %@ is now available. You have %@. Would you like to download it now?" = "Je k dispozici %1$@ %2$@ - máte %3$@. Přejete si nyní zkopírovat aktualizaci ?";
 
 "Update" = "Aktualizaci";
 

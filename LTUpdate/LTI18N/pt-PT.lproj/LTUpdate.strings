@@ -1,6 +1,6 @@
 "A new version is available!" = "Uma nova versão está dísponível!";
 
-"%@ %@ is now available. You have %@. Would you like to download(%@) it now?" = "O %1$@ %2$@ está agora disponível e tem a versão %3$@. Gostaria de o transferir agora(%4$@)?";
+"%@ %@ is now available. You have %@. Would you like to download it now?" = "O %1$@ %2$@ está agora disponível e tem a versão %3$@. Gostaria de o transferir agora?";
 
 "Update" = "Actualização";
 

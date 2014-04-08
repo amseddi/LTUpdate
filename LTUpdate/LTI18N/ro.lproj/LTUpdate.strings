@@ -1,6 +1,6 @@
 "A new version is available!" = "O nouă versiune este disponibilă!";
 
-"%@ %@ is now available. You have %@. Would you like to download(%@) it now?" = "%1$@ %2$@ este disponibilă—-tu ai %3$@. Doriți să o descărcați(%4$@) acum?";
+"%@ %@ is now available. You have %@. Would you like to download it now?" = "%1$@ %2$@ este disponibilă—-tu ai %3$@. Doriți să o descărcați acum?";
 
 "Update" = "Actualizare";
 

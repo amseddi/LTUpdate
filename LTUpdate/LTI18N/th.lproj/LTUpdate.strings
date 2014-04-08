@@ -1,6 +1,6 @@
 "A new version is available!" = "เวอร์ชั่นใหม่ของพร้อมสำหรับการติดตั้งแล้ว";
 
-"%@ %@ is now available. You have %@. Would you like to download(%@) it now?" = "%1$@ %2$@ พร้อมให้ดาวน์โหลดแล้ว (คุณมีเวอร์ชั่น %3$@) ดาวน์โหลด(%4$@)หรือไม่";
+"%@ %@ is now available. You have %@. Would you like to download it now?" = "%1$@ %2$@ พร้อมให้ดาวน์โหลดแล้ว (คุณมีเวอร์ชั่น %3$@) ดาวน์โหลดหรือไม่";
 
 "Update" = "อัพเดท";
 

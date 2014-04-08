@@ -249,7 +249,7 @@ static long _appStoreID;
 
 - (NSString*)updateMessage {
     return [NSString stringWithFormat:
-            LTI18N(@"%@ %@ is now available. You have %@. Would you like to download(%@) it now?"),
+            LTI18N(@"%@ %@ is now available. You have %@. Would you like to download it now?"),
             kAppName(),
             self.latestVersion.version,
             kAppVersion(),
